@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\vadim\source\repos\interface\interface\driver.h(43): warning C4018: >: несоответствие типов со знаком и без знака
+  interface.vcxproj -> C:\Users\Vadim\source\repos\interface\Debug\interface.exe
